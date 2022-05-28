@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/szymon-kasprzycki-219200220">
+  <a href="https://www.linkedin.com/in/szymon-kasprzycki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://dcbadge.vercel.app/api/shield/288332827336900609?style=for-the-badge&theme=discord-inverted" alt="Discord Badge"/>
@@ -22,7 +22,7 @@
 
 - :zap: In my free time, I make easy life-automation scripts, read motivating books, or upgrade and drive my car.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-szymon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kasprzycki-219200220)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-szymon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kasprzycki/)
 
 ---
 
