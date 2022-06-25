@@ -20,7 +20,7 @@
 
 - :seedling: Exploring blockchain world.
 
-- :zap: In my free time, I make easy life-automation scripts, read motivating books, or upgrade and drive my car.
+- :zap: In my free time, I make easy life-automation scripts, read motivating books, or upgrade my car.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-szymon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kasprzycki/)
 
@@ -51,7 +51,7 @@
    
    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymon-Kasprzycki&count_private=true&theme=github_dark)
 
-   [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=DiscordBot&theme=github_dark)](https://github.com/Szymon-Kasprzycki/DiscordBot)
+   [![Invoice system](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=Invoice_System&theme=github_dark)](https://github.com/Szymon-Kasprzycki/Invoice_System)
 
    [![Advent Of Code](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=AdventOfCode&theme=github_dark)](https://github.com/Szymon-Kasprzycki/AdventOfCode)
 
