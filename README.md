@@ -56,5 +56,5 @@
    [![Advent Of Code](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=AdventOfCode&theme=github_dark)](https://github.com/Szymon-Kasprzycki/AdventOfCode)
 
    [![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=Currency-Converter&theme=github_dark)](https://github.com/Szymon-Kasprzycki/Currency-Converter)
-   
+
 </div>
