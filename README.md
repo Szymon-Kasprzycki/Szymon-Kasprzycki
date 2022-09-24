@@ -51,6 +51,9 @@
    
    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymon-Kasprzycki&count_private=true&theme=github_dark)
 
+   [![OLX Notificator](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=olx-notificator&theme=github_dark)](https://github.com/Szymon-Kasprzycki/olx-notificator)
+
+
    [![Invoice system](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=Invoice_System&theme=github_dark)](https://github.com/Szymon-Kasprzycki/Invoice_System)
 
    [![Advent Of Code](https://github-readme-stats.vercel.app/api/pin/?username=Szymon-Kasprzycki&repo=AdventOfCode&theme=github_dark)](https://github.com/Szymon-Kasprzycki/AdventOfCode)
