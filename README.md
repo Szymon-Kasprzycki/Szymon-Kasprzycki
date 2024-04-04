@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’ve graduated Secondary School. I'm actually searching for an internship in Python. I'm keen on learning Python more and more.
+- :telescope: I’ve graduated from the Secondary School. I'm actually searching for an internship in Python. I'm keen on learning Python more and more.
 
 - :seedling: Exploring blockchain world.
 
