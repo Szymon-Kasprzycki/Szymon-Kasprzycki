@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/szymon-kasprzycki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://dcbadge.vercel.app/api/shield/288332827336900609?style=for-the-badge&theme=discord-inverted" alt="Discord Badge"/>
+  <img src="https://dcbadge.limes.pink/api/shield/288332827336900609?style=for-the-badge&theme=discord-inverted" alt="Discord Badge"/>
 </div>
 &nbsp;
 <div align="center">
