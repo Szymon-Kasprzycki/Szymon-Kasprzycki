@@ -18,8 +18,6 @@
 ### :woman_technologist: About Me :
 - :telescope: I’ve graduated from the Secondary School. I'm actually searching for an internship in Python. I'm keen on learning Python more and more.
 
-- :seedling: Exploring blockchain world.
-
 - :zap: In my free time, I make easy life-automation scripts, read motivating books, or upgrade my car.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-szymon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-kasprzycki/)
