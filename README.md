@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’ve graduated from the Secondary School. I'm actually searching for an internship in Python. I'm keen on learning Python more and more.
+- :telescope: I am an Data Engineering student at Gdańsk University of Technology, in Poland. I'm actually searching for an internship in data/backend. I'm keen on learning Python libraries and honing my skills into data.
 
 - :zap: In my free time, I make easy life-automation scripts, read motivating books, or upgrade my car.
 
